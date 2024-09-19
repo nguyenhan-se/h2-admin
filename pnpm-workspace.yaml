@@ -6,6 +6,8 @@ packages:
   - "packages/@core/ui-kit/*"
   - "packages/@core/forward/*"
   - "packages/@core/*"
+  - "packages/@h2/*"
+  - "packages/@h2/plugins/*"
   - "packages/effects/*"
   - "packages/business/*"
   - "apps/*"

@@ -101,6 +101,14 @@
       "path": "packages/@core/ui-kit/tabs-ui",
     },
     {
+      "name": "@h2/client",
+      "path": "packages/@h2/client",
+    },
+    {
+      "name": "@h2/plugin-sample-hello",
+      "path": "packages/@h2/plugins/plugin-sample-hello",
+    },
+    {
       "name": "@vben/constants",
       "path": "packages/constants",
     },
